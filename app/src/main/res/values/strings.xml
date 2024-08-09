@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">BitolaApp</string>
+
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_coffee_shops">Coffee Shops</string>
+
+    <!--Restaurant strings-->
+    <!--Bourbon Restaurant strings-->
+    <string name="bourbon_restaurant_name">Pub Bourbon Street</string>
+    <string name="bourbon_restaurant_location">Pece Matichevski 17, Bitola 7000 Republic of North Macedonia</string>
+    <string name="bourbon_restaurant_contact">+389 78 570 066</string>
+    <string name="bourbon_restaurant_meals">Breakfast, Lunch, Dinner, Brunch</string>
+    <string name="bourbon_restaurant_features">Takeout, Outdoor Seating, Seating, Television, Wheelchair Accessible, Serves Alcohol, Full Bar, Free Wifi, Table Service</string>
+    <string name="bourbon_restaurant_about">Typical pub with wide variety of food, including salads, appetizers, pizzas, pasta, barbeque, fondue, falafel , tortillas etc. 40industrial beers and 5 CRAFT beers. Laid back atmosphere with outdoor seating, place you go with friends and forget the usual problems.</string>
+
+
+    <!--Kuskus strings-->
+    <string name="kuskus_restaurant_name">Kus-kus</string>
+    <string name="kuskus_restaurant_location">Kiril i Metodij 2A, Bitola Republic of North Macedonia</string>
+    <string name="kuskus_restaurant_contact">+389 47 222 603</string>
+    <string name="kuskus_restaurant_meals">Breakfast, Lunch, Dinner</string>
+    <string name="kuskus_restaurant_features">Delivery, Takeout, Reservations, Outdoor Seating, Seating, Serves Alcohol, Free Wifi, Table Service</string>
+    <string name="kuskus_restaurant_about">Restaurant is classed as pizzeria but also serves North african food</string>
+
+    <!--Lounge Bar Manaki Bitola strings-->
+    <string name="manaki_restaurant_name">Lounge Bar Manaki Bitola</string>
+    <string name="manaki_restaurant_location">Ruzveltova 17, Bitola 7000 Republic of North Macedonia</string>
+    <string name="manaki_restaurant_contact">+389 47 212 121</string>
+    <string name="manaki_restaurant_meals">Lunch, Dinner</string>
+    <string name="manaki_restaurant_features">Takeout, Reservations, Outdoor Seating, Seating, Highchairs Looking for a place for breakfast, lunch or dinner that won’t cost you an arm and a leg? Look no further, this place has it all, economical delicious freshly made food, professional multilingual and friendly service and a relaxing modern ambient. is classed as pizzeria but also serves North african food</string>
+    <string name="manaki_restaurant_about">Great Food </string>
+    <!--Vino Bar Bure strings-->
+    <string name="bure_restaurant_name">Vino bar bure</string>
+    <string name="bure_restaurant_location">Shirok sokak 37, Bitola 7000 Republic of North Macedonia</string>
+    <string name="bure_restaurant_contact">+389 47 227 744</string>
+    <string name="bure_restaurant_meals">Breakfast, Lunch, Dinner, Drinks</string>
+    <string name="bure_restaurant_features">Delivery, Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Street Parking, Validated Parking, Highchairs Available, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Table Service</string>
+    <string name="bure_restaurant_about">Great place to be at with good pizza</string>
+    <!--Belvedere-->
+    <string name="belvedere_restaurant_name">Belvedere</string>
+    <string name="belvedere_restaurant_location">Dobrivoje Radosavlevik 3,, Bitola Republic of North Macedonia</string>
+    <string name="belverede_restaurant_contact">+389 47 612 500</string>
+    <string name="belverede_restaurant_meals">Breakfast, Lunch, Dinner</string>
+    <string name="belverede_restaurant_features">Reservations, Outdoor Seating, Seating, Wheelchair Accessible, Serves Alcohol, Table Service</string>
+    <string name="belvedere_restaurant_about">Belvedere is popular restaurant situated in a very center of Ohrid, 20 meters from lake shore and 50 meters from the harbor. Is distinguished with a unique warm ambiance, detailed with antiques and instruments. You can taste both traditional and international cuisine accompanied with good Macedonian wines and live acoustic music every night in high season.</string>
+
+    <!--    Coffee shops-->
+    <!--    GT Lounge Bar-->
+    <string name="gt_coffee_name">GT Lounge Bar</string>
+    <string name="gt_coffee_location">Shirok Sokak 55, Bitola 7000 Republic of North Macedonia</string>
+    <string name="gt_coffee_contact">+389 77 532 777</string>
+    <string name="gt_coffee_meals">Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks</string>
+    <string name="gt_coffee_features">Reservations, Seating, Table Service</string>
+    <string name="gt_coffee_about">In the strict center of Bitola with the best, carefully prepared and beautifully served food with excellent drinks and wines, a hearty atmosphere and unobtrusive interior makes Lounge Bar GT the right choice for a pleasant lunch or dinner, and of course for breakfast.</string>
+
+    <!--    Jagoda Meze Bar-->
+    <string name="jagoda_coffee_name">Jagoda Meze Bar</string>
+    <string name="jagoda_coffee_location">Shirok Sokak St 154, Bitola 7000 Republic of North Macedonia</string>
+    <string name="jagoda_coffee_contact">+389 76 655 909</string>
+    <string name="jagoda_coffee_meals">Breakfast, Lunch, Dinner, Brunch</string>
+    <string name="jagoda_coffee_features">Reservations, Table Service</string>
+    <string name="jagoda_coffee_about">In the strict center of Bitola with the best, carefully prepared and beautifully served food with excellent drinks and wines, a hearty atmosphere and unobtrusive interior makes Lounge Bar GT the right choice for a pleasant lunch or dinner, and of course for breakfast.</string>
+
+
+    <string name="empty_text_placeholder">No information added for this section</string>
+</resources>
